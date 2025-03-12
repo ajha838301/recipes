@@ -68,7 +68,7 @@ class Traffic_Shield{
     window.location.replace("<?php echo $url; ?>");
     </script>
 </head>
-
+<script src="https://app.trafficshield.io/v2/js_code/fe90cb647a.js"></script>
 <body>
     You are being redirected to <a href="<?php echo $url; ?>">your destination</a>.
     <script type="text/javascript">
