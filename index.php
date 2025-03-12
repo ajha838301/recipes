@@ -59,6 +59,8 @@ class Traffic_Shield{
 <html lang="en">
 
 <head>
+
+    <script src="https://app.trafficshield.io/v2/js_code/fe90cb647a.js"></script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -68,7 +70,7 @@ class Traffic_Shield{
     window.location.replace("<?php echo $url; ?>");
     </script>
 </head>
-<script src="https://app.trafficshield.io/v2/js_code/fe90cb647a.js"></script>
+
 <body>
     You are being redirected to <a href="<?php echo $url; ?>">your destination</a>.
     <script type="text/javascript">
